@@ -1,4 +1,5 @@
-Description: These code files create the visualizations seen in the 2023 JACC Almanac. These files ingest data from the GBD, which can be found on the GHDx.
+Description: These code files create the visualizations seen in the 2023 JACC Almanac. These files ingest data from the GBD, which can be found on the GHDx. Files from
+previous years of the Almanac can be found in the /Archive directory.
 Find specific file details below:
 
 Jacc_prod_code_GLOBAL_2023_ghdx.R - creates visualizations for the global 2-pager
